@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaaaelshafei&label=Profile%20views&color=0e75b6&style=flat" alt="alaaaelshafei" /> </p>
 
-- 🔭 I’m currently working on [A 100 projects of artificial intelligence](https://github.com/AlaaAElshafei/A-100-projects-of-artificial-intelligence.git)
+ 
 
 - 🌱 I’m currently learning **Machine learning, Deep learning, Computer vision ,NLP**
 
