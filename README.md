@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alaa Ahmed Elshafei</h1>
-<h3 align="center">Artificial intelligence engineer from Egypt</h3>
+<h3 align="center">Artificial intelligence engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaaaelshafei&label=Profile%20views&color=0e75b6&style=flat" alt="alaaaelshafei" /> </p>
 
